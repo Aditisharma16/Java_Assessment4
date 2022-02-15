@@ -1,0 +1,5 @@
+package com.traineeapp.model.persistance.trainee;
+
+public class TraineeDao {
+
+}

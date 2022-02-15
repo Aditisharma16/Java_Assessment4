@@ -1,0 +1,5 @@
+package com.traineeapp.web.filters;
+
+public class SecurityFilter {
+
+}
