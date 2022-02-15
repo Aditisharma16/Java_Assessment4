@@ -11,7 +11,7 @@ public class TraineeServiceImpl implements TraineeService{
 	
 	
 	public TraineeServiceImpl() {
-		this.traineeDao=new TraineeDaoImpl();
+		this.traineeDao= new TraineeDaoImpl();
 	}
 
 	@Override
